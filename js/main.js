@@ -86,19 +86,4 @@ $(document).ready(function(){
         // .addIndicators()
         .addTo(controller);
     });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 });
